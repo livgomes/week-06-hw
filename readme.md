@@ -23,3 +23,7 @@ This week I had many issues linking my videos to the different html pages, I fou
 ### Future Discussion
 
 I am so excited to see what more this class has to offer. Although challenging, I love this class and learning what goes into creating html webpages.
+
+### Screenshot
+
+![Image of my editor](./images/readme-screenshot.jpg).
